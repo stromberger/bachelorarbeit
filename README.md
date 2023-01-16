@@ -1,5 +1,5 @@
 # Bachelor thesis
-This repository contains the code of my bachelor thesis in Operations Research for my Statistics and Economics in Mathematics bachelor thesis.
+This repository contains the code of my bachelor thesis in Operations Research that I wrote in order to obtain my 'Statistics and Economics in Mathematics' degree.
 
 My thesis and therefore the code in this repository builds on the results of "Optimal Content Placement for a Large-Scale VoD System" by Applegate et al. (https://research.google/pubs/pub45689/).
 
